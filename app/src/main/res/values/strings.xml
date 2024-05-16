@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ICPA_Cinthia</string>
+    <string name="txt_servicio">Servicio</string>
+    <string name="txt_serviU">Servicio Urgente</string>
+    <string name="txt_presupuesto">Presupuesto</string>
+    <string name="txt_seleOficio">Selecione un oficio</string>
+    <string name="txt_otro">Otro</string>
+    <string name="MiURL">https://c031-201-148-25-74.ngrok-free.app</string>
+    <string name="txt_HomeFragment_txt2">Selecciona un oficio</string>
+    <string name="txt_HomeFragment_txt3">Otro</string>
+</resources>
